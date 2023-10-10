@@ -11,7 +11,7 @@ def lint(context):
 
 @task
 def type_check(context):
-    context.run("mypy bq_schema")
+    context.run("mypy bq_schema_policy_tags")
 
 
 @task
