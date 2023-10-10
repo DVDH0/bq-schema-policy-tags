@@ -12,3 +12,5 @@ htmlcov/
 junit/
 .pytest_cache
 .DS_Store
+.pypirc
+deploy_to_pypi_test.sh

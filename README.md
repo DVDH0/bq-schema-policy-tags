@@ -1,10 +1,8 @@
-# bq-schema
-![Python package](https://github.com/limehome/bq-schema/workflows/Python%20package/badge.svg)
-[![PyPI version](https://badge.fury.io/py/bq_schema_policy_tags.svg)](https://badge.fury.io/py/bq_schema)
-![Codecov](https://img.shields.io/codecov/c/github/limehome/bq-schema)
+# bq-schema-policy-tags
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Imports: isort](https://img.shields.io/badge/%20imports-isort-%231674b1?style=flat&labelColor=ef8336)](https://pycqa.github.io/isort/)
 
+# This Project is a Fork of [bq-schema by Limehome GmbH](https://pypi.org/project/bq-schema/)
 
 ## Motivation (Original GH Repo)
 
@@ -44,7 +42,7 @@ Since this library makes use of newer features of python, you need at least pyth
 
 1. Install the package
 ```
-pip install bq_schema
+pip install bq-schema-policy-tags
 ```
 
 2. Create a schema and a table definition in my_table.py
